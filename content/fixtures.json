@@ -1,0 +1,55 @@
+{
+  "fixtures": [
+    {
+      "date": "2026-11-05",
+      "title": "Winter Series AM-AM",
+      "details": "shotgun start 10am"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Guy Fawkes",
+      "details": ""
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Remembrance Sunday Greensome",
+      "details": ""
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Winter Series AM-AM",
+      "details": "shotgun start 10am"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Ladies' annual meeting and Lady Captain's lunch",
+      "details": ""
+    },
+    {
+      "date": "2026-11-14",
+      "title": "2 Man Texas Scramble",
+      "details": ""
+    },
+    {
+      "date": "2026-11-21",
+      "title": "4BBB Stableford",
+      "details": ""
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Presentation evening",
+      "details": ""
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Winter Stableford No 1",
+      "details": ""
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Christmas Open AM-AM",
+      "details": "shotgun start"
+    }
+  ],
+  "pdf": "https://prestatyngolfclub.co.uk/docs/pgc-diary-fixtures-2026.pdf"
+}
